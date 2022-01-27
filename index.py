@@ -15,7 +15,7 @@ if main_ == "1":
     ip = socket.gethostbyname(site)
 
     UDP_PORT = 80
-    MESSAGE = "irNofoz"
+    MESSAGE = "Miltone"
     print("IP:", ip)
     print("port:", UDP_PORT)
     time.sleep(3)
